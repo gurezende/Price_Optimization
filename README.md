@@ -13,6 +13,9 @@ Analyze the pricing history of 5 products and generate a model to optimize the p
 * Modeling the Effect of discounts on products with OLS
 * Modeling the optimized price by product using Generalized Additive Model
 
+#### Medium Post
+[Price Optimization with Generalized Additive Model (GAM)](https://medium.com/@gustavorsantos/price-optimization-with-generalized-additive-model-gam-ed256d8e20f5?sk=e60e6d652fb43d616d009b766475ab76)
+
 #### Results
 The final model was created with `PyGAM`, presenting the price point that maximizes the revenue. The predictions are within a 95% confidence band.
 
